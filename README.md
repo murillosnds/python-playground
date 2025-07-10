@@ -6,6 +6,6 @@
 
 ⭐ Este repositório é focado exclusivamente no estudo da linguagem de programação `Python`.
 
-| #   |     | projetos    | 🔗                                                                                                                                                                                                                  |
+| #   |     | Projetos    | 🔗                                                                                                                                                                                                                  |
 | --- | --- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | 📁  | Calculadora Iphone      | https://github.com/murillosnds/python-playground/blob/main/Projetos/Calculadora%20Iphone.py                          |
