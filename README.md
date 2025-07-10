@@ -2,6 +2,6 @@
 
 # 📁Python Playground 🔥
 
-> ❓ **Feito por: Murillo Sergio**
+> 👨🏻‍💻 **Feito por: Murillo Sergio**
 
 ## ⭐ Este repositório é focado exclusivamente no estudo da linguagem de programação Python.
