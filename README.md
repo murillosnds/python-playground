@@ -5,3 +5,7 @@
 > 👨🏻‍💻 **Feito por: Murillo Sergio**
 
 ⭐ Este repositório é focado exclusivamente no estudo da linguagem de programação `Python`.
+
+| #   |     | projetos    | 🔗                                                                                                                                                                                                                  |
+| --- | --- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | 📁  | Calculadora Iphone      | https://github.com/murillosnds/python-playground/blob/main/Projetos/Calculadora%20Iphone.py                          |
