@@ -2,4 +2,4 @@
 
 # Python Playground 📁🔥
 
-## Este repositório é focado exclusivamente no estudo da linguagem de programação Python.
+## ⭐ Este repositório é focado exclusivamente no estudo da linguagem de programação Python.
