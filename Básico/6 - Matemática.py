@@ -1,5 +1,5 @@
-numero_1 = int(input("Digite um número: "))
-numero_2 = int(input("Digite um número: "))
+numero_1 = int(float(input("Digite um número: ")))
+numero_2 = int(float(input("Digite um número: ")))
 tipo = input("Qual tipo de operação deseja fazer? (+,-,*,/,**)")
 
 soma = numero_1 + numero_2
@@ -18,8 +18,6 @@ elif tipo == "/":
     print(f"O resultado de {numero_1} / {numero_2} é {divisão}.")
 elif tipo == "**":
     print(f"O resultado de {numero_1} ** {numero_2} é {potenciação}.")
-else:
-    print("Erro! Tente novamente! É aceito apenas (+,-,*,/,**).")
 
 # Em python é possível realizar contas matématicas como adição, subtração, divisão, multiplicação e potenciação.
 
