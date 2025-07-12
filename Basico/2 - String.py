@@ -1,8 +1,8 @@
-caractere = (input("Digite algo: "))
+entrada = (input("Digite algo: "))
 
 try:
-    numero = float(caractere)
-    print("É um número.")
+    numero = float(entrada)
+    print("Não é uma string! É um número")
 except ValueError:
     print("É uma string.")
 
