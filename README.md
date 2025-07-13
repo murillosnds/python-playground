@@ -22,4 +22,5 @@
 | 4   | 📄  |4 - Float               | https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/4%20-%20Float.py
 | 5   | 📄  |5 - Booleano            | https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/5%20-%20Booleano.py
 | 6   | 📄  |6 - Matemática          | https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/6%20-%20Matem%C3%A1tica.py
+| 7   | 📄  |7 - Condicionais        | https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/7%20-%20Condicionais.py
 
