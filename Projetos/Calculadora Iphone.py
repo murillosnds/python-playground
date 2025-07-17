@@ -4,6 +4,7 @@ from decimal import Decimal
 
 # Lista de botões da calculadora, com informações sobre operadores, cores de fonte e fundo.
 
+
 botoes = [
     {"operador": "AC", "fonte": colors.BLACK, "fundo": colors.BLUE_GREY_100},
     {"operador": "±", "fonte": colors.BLACK, "fundo": colors.BLUE_GREY_100},
@@ -109,5 +110,6 @@ def main(page: ft.Page):
 
 
 # Inicialização da aplicação.
+
 
 ft.app(target=main)
