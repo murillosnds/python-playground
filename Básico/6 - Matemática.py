@@ -20,10 +20,7 @@ elif tipo == "/":
 elif tipo == "**":
     print(f"O resultado de {numero_1} ** {numero_2} é {potenciação}.")
 elif tipo == "%":
-    print(
-        f"O resultado do resto da divisão de {numero_1} / {numero_2} é
-        {resto_da_divisao}."
-    )
+    print(f"O resultado do resto da divisão de {numero_1} / {numero_2} é {resto_da_divisao}.")
 
 # Em python é possível realizar contas matématicas como adição, subtração, divisão, multiplicação e potenciação.
 
