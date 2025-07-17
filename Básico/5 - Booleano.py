@@ -13,5 +13,4 @@ else:
         print("Não é booleano! É float (número com ponto).")
     except ValueError:
         print("É uma string.")
-
 # Um valor booleano é composto por true (verdadeiro) ou false (falso).
