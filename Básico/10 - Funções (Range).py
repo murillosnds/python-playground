@@ -6,3 +6,5 @@ print(n)
 # Por fim é impresso uma lista de 1 a 9. Começa no 1 para no 9 de um em um.
 
 # O range funciona dessa forma: range(start, stop, step) ou range(inicio, fim, incremento)
+
+# Vamos continuar abordando as funções.
