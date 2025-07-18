@@ -26,4 +26,5 @@
 | 8   | 📄  |08 - While       | [![Ver](https://img.shields.io/badge/VER-100000?style=for-the-badge&logo=VER&logoColor=white&labelColor=black&color=black)](https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/8%20-While.py)
 | 9   | 📄  |09 - Continue e break        | [![Ver](https://img.shields.io/badge/VER-100000?style=for-the-badge&logo=VER&logoColor=white&labelColor=black&color=black)](https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/9%20-%20Continue%20e%20break.py)
 | 10   | 📄  |10 - Funções (Range)       | [![Ver](https://img.shields.io/badge/VER-100000?style=for-the-badge&logo=VER&logoColor=white&labelColor=black&color=black)](https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/10%20-%20Fun%C3%A7%C3%B5es%20(Range).py)
+| 11   | 📄  |11 - Funções (Def)       | [![Ver](https://img.shields.io/badge/VER-100000?style=for-the-badge&logo=VER&logoColor=white&labelColor=black&color=black)](https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/11%20-%20Fun%C3%A7%C3%B5es%20(Def).py)
 
