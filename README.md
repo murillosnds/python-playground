@@ -23,4 +23,7 @@
 | 5   | 📄  |5 - Booleano            | [![Ver](https://img.shields.io/badge/VER-100000?style=for-the-badge&logo=VER&logoColor=white&labelColor=black&color=black)](https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/5%20-%20Booleano.py)
 | 6   | 📄  |6 - Matemática          | [![Ver](https://img.shields.io/badge/VER-100000?style=for-the-badge&logo=VER&logoColor=white&labelColor=black&color=black)](https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/6%20-%20Matem%C3%A1tica.py)
 | 7   | 📄  |7 - Condicionais        | [![Ver](https://img.shields.io/badge/VER-100000?style=for-the-badge&logo=VER&logoColor=white&labelColor=black&color=black)](https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/7%20-%20Condicionais.py)
+| 7   | 📄  |8 - While       | [![Ver](https://img.shields.io/badge/VER-100000?style=for-the-badge&logo=VER&logoColor=white&labelColor=black&color=black)](https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/8%20-While.py)
+| 7   | 📄  |9 - Continue e break        | [![Ver](https://img.shields.io/badge/VER-100000?style=for-the-badge&logo=VER&logoColor=white&labelColor=black&color=black)](https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/9%20-%20Continue%20e%20break.py)
+
 
