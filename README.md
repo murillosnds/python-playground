@@ -8,6 +8,7 @@
 
 ![pylint Score](https://mperlet.github.io/pybadge/badges/10.svg)
 [![Pylint Check](https://github.com/murillosnds/python-playground/actions/workflows/pylint.yml/badge.svg)](https://github.com/murillosnds/python-playground/actions/workflows/pylint.yml)
+![Python Version](https://img.shields.io/badge/python-3.13-green)
 
 ### Projetos
 
