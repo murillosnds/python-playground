@@ -1,3 +1,5 @@
+"""Interface gráfica estilo iPhone feita com Flet."""
+
 import flet as ft
 from flet import colors
 from decimal import Decimal
