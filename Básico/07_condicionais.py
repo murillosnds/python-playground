@@ -2,9 +2,9 @@
 
 periodo = input("Está claro ou escuro? ")
 
-if periodo == "claro" or periodo == "CLARO":
+if periodo in {'claro', 'CLARO'}:
     print("Está de dia.")
-elif periodo == "escuro" or periodo == "ESCURO":
+if periodo in {'claro', 'ESCURO'}:
     print("Está de noite.")
 else:
     print("Erro! Ou está de dia ou de noite, tente novamente.")

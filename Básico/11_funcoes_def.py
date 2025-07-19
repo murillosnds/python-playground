@@ -1,6 +1,7 @@
 """Aprendendo o que são funções 2/2."""
 
 def soma(n1, n2):
+    """Função para somar."""
     somando = n1 + n2
     print(somando)
 
