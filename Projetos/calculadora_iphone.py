@@ -1,5 +1,6 @@
 """Interface gráfica estilo iPhone feita com Flet."""
 from decimal import Decimal
+from ast import literal_eval
 import flet as ft
 from flet import colors
 
@@ -46,7 +47,7 @@ def main(page: ft.Page):
 
     def calculate(operator, value_at):
         try:
-            value = eval(value_at)
+            value = literal_eval(value_at)
 
             if operator == "%":
                 value /= 100
