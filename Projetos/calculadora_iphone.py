@@ -1,8 +1,7 @@
 """Interface gráfica estilo iPhone feita com Flet."""
 from decimal import Decimal
-
 import flet as ft
-import flet.colors as colors
+from flet import colors
 
 # Lista de botões da calculadora, com informações sobre operadores, cores de fonte e fundo.
 
@@ -53,7 +52,7 @@ def main(page: ft.Page):
                 value /= 100
             elif operator == "±":
                 value = -value
-        except:
+        except Exception:
             return "Error"
         digits = min(abs(Decimal(value).as_tuple().exponent), 5)
         return format(value, f".{digits}f")
