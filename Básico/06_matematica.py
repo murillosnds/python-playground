@@ -26,7 +26,7 @@ elif tipo == "%":
         f"O resultado do resto da divisão de {numero_1} / {numero_2} é {resto_da_divisao}."
     )
 
-# Em python é possível realizar contas matématicas como adição, subtração, divisão, multiplicação e potenciação.
+# Em python é possível realizar contas matématicas como: # adição, subtração, divisão, multiplicação e potenciação.
 
 # Adição = +
 # Subtração -
