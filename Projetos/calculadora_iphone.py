@@ -1,11 +1,10 @@
 """Interface gráfica estilo iPhone feita com Flet."""
+from decimal import Decimal
 
 import flet as ft
 from flet import colors
-from decimal import Decimal
 
 # Lista de botões da calculadora, com informações sobre operadores, cores de fonte e fundo.
-
 
 botoes = [
     {"operador": "AC", "fonte": colors.BLACK, "fundo": colors.BLUE_GREY_100},
@@ -31,7 +30,7 @@ botoes = [
 
 
 def main(page: ft.Page):
-    # Configurações da janela da calculadora.
+    """ Configurações da janela da calculadora."""
 
     page.bgcolor = "#000"
     page.window_resizable = False
