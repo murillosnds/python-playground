@@ -2,7 +2,7 @@
 from decimal import Decimal
 
 import flet as ft
-from flet import colors
+import flet.colors as colors
 
 # Lista de botões da calculadora, com informações sobre operadores, cores de fonte e fundo.
 
