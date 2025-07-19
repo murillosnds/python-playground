@@ -5,22 +5,22 @@ numero_2 = int(float(input("Digite um número: ")))
 tipo = input("Qual tipo de operação deseja fazer? ( + | - | * | / | ** | % ): ")
 
 soma = numero_1 + numero_2
-subtração = numero_1 - numero_2
-multiplicação = numero_1 * numero_2
-divisão = numero_1 / numero_2
-potenciação = numero_1 ** numero_2
+subtracao = numero_1 - numero_2
+multiplicacao = numero_1 * numero_2
+divisao = numero_1 / numero_2
+potenciacao = numero_1 ** numero_2
 resto_da_divisao = numero_1 % numero_2
 
 if tipo == "+":
     print(f"O resultado de {numero_1} + {numero_2} é {soma}.")
 elif tipo == "-":
-    print(f"O resultado de {numero_1} - {numero_2} é {subtração}.")
+    print(f"O resultado de {numero_1} - {numero_2} é {subtracao}.")
 elif tipo == "*":
-    print(f"O resultado de {numero_1} x {numero_2} é {multiplicação}.")
+    print(f"O resultado de {numero_1} x {numero_2} é {multiplicacao}.")
 elif tipo == "/":
-    print(f"O resultado de {numero_1} / {numero_2} é {divisão}.")
+    print(f"O resultado de {numero_1} / {numero_2} é {divisao}.")
 elif tipo == "**":
-    print(f"O resultado de {numero_1} ** {numero_2} é {potenciação}.")
+    print(f"O resultado de {numero_1} ** {numero_2} é {potenciacao}.")
 elif tipo == "%":
     print(
         f"O resultado do resto da divisão de {numero_1} / {numero_2} é {resto_da_divisao}."
