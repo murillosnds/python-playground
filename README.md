@@ -32,3 +32,10 @@
 | 10   | 📄  |Funções (Range)       | [![Ver](https://img.shields.io/badge/VER-100000?style=for-the-badge&logo=VER&logoColor=white&labelColor=black&color=black)](https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/10%20-%20Fun%C3%A7%C3%B5es%20(Range).py)
 | 11   | 📄  |Funções (Def)       | [![Ver](https://img.shields.io/badge/VER-100000?style=for-the-badge&logo=VER&logoColor=white&labelColor=black&color=black)](https://github.com/murillosnds/python-playground/blob/main/B%C3%A1sico/11%20-%20Fun%C3%A7%C3%B5es%20(Def).py)
 
+## 🚀 Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/murillosnds/python-playground.git
+cd python-playground
