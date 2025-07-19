@@ -6,7 +6,8 @@
 
 ⭐ Este repositório é focado exclusivamente no estudo da linguagem de programação `Python`.
 
-![pylint Score](https://mperlet.github.io/pybadge/badges/9.5.svg)
+![pylint Score](https://mperlet.github.io/pybadge/badges/10.svg)
+[![Pylint Check](https://github.com/murillosnds/python-playground/actions/workflows/pylint.yml/badge.svg)](https://github.com/murillosnds/python-playground/actions/workflows/pylint.yml)
 
 ### Projetos
 
