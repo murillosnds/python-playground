@@ -2,7 +2,7 @@
 
 numero_1 = int(float(input("Digite um número: ")))
 numero_2 = int(float(input("Digite um número: ")))
-tipo = input("Qual tipo de operação deseja fazer? ( + | - | * | / | ** | % ): ")
+tipo = input("\nQual tipo de operação deseja fazer? ( + | - | * | / | ** | % ): ")
 
 soma = numero_1 + numero_2
 subtracao = numero_1 - numero_2

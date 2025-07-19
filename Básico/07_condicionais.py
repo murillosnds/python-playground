@@ -16,4 +16,4 @@ else:
 
 # Elif é caso se você for colocar outro if.
 
-# Else é usado caso as outras as opções não forem correspondidas. 
+# Else é usado caso as outras as opções não forem correspondidas.
