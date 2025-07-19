@@ -1,3 +1,5 @@
+"""Aprendendo como fazer operações matemáticas em Python."""
+
 numero_1 = int(float(input("Digite um número: ")))
 numero_2 = int(float(input("Digite um número: ")))
 tipo = input("Qual tipo de operação deseja fazer? ( + | - | * | / | ** | % ): ")

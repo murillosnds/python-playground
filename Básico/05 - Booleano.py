@@ -1,3 +1,5 @@
+"""Aprendendo o que são valores booleanos."""
+
 entrada = input("Digite algo: ")
 
 if entrada.lower() == "true":

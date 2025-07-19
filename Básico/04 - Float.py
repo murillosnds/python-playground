@@ -1,3 +1,5 @@
+"""Aprendendo o que são números com pontos flutuantes."""
+
 entrada = input("Digite algo: ")
 
 try:

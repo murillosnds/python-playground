@@ -1,3 +1,5 @@
+"""Aprendendo o que string."""
+
 entrada = (input("Digite algo: "))
 
 try:

@@ -1,3 +1,5 @@
+"""Aprendendo o que são funções 1/2."""
+
 n = list(range(1,10,1))
 print(n)
 

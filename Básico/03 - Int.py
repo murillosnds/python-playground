@@ -1,3 +1,5 @@
+"""Aprendendo o que são números inteiros."""
+
 entrada = input("Digite algo: ")
 
 try:

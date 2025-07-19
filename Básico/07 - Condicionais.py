@@ -1,3 +1,5 @@
+"""Aprendendo o que são e como usar os condicionais."""
+
 periodo = input("Está claro ou escuro? ")
 
 if periodo == "claro" or periodo == "CLARO":

@@ -1,3 +1,5 @@
+"""Aprendendo o que faz continue e break."""
+
 seguidores = 1
 while seguidores < 100:
     seguidores += 1
