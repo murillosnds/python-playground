@@ -1,3 +1,5 @@
+"""Aprendendo o que são operadores booleanos em Python."""
+
 entrada = input("Digite algo: ")
 
 if entrada.lower() == "true":
@@ -14,3 +16,5 @@ else:
             print("Não é booleano! É float (número com ponto).")
         except ValueError:
             print("É uma string.")
+
+# Aqui é feito uma verificação se é float, booleano, int ou string.
