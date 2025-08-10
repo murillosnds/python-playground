@@ -1,4 +1,4 @@
-![Python Banner](https://i.imgur.com/5rNd3S6.png)
+![Python Banner](https://i.imgur.com/GYAtvxb.png)
 
 # 📁Python Playground 🔥
 
